@@ -17,7 +17,7 @@ Edit the file `config/db.php`:
 ```php
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=yii_blog_',
+    'dsn' => 'mysql:host=localhost;dbname=yii_blog',
     'username' => 'root',
     'password' => '1234',
     'charset' => 'utf8',
